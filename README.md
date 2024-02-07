@@ -26,22 +26,23 @@ Data preprocessing involves handling missing values, removing duplicates, and co
 
 The project utilizes machine learning algorithms, specifically cosine similarity, to determine the similarity between movies based on their tags (overview, genres, keywords, cast, and crew). The similarity matrix is then used to recommend movies similar to a user's selection.
 
+![Home page / search bar](https://www.researchgate.net/publication/320914786/figure/fig2/AS:558221849841664@1510101868614/The-difference-between-Euclidean-distance-and-cosine-similarity.png)
+
 ## Webpage (Streamlit) 🌐
 
 The user interface for the movie recommendation system is implemented using Streamlit. The webpage allows users to select a movie and receive recommendations based on the selected movie.
 
 ## 📷 Screenshots
-
 * <h3>Home Page</h3>
 ![Home page / search bar](https://github.com/mayurpaunikar7/Movie-Recommender-System/blob/main/Images/WhatsApp%20Image%202024-02-07%20at%204.31.07%20PM.jpeg)
 
-* <h3>Top Statistics</h3>
+* <h3>Select a Movie from the Dropdown</h3>
 ![Home page / search bar](https://github.com/mayurpaunikar7/Movie-Recommender-System/blob/main/Images/WhatsApp%20Image%202024-02-07%20at%204.35.42%20PM.jpeg)
 
-* <h3>Message distribution over time</h3>
+* <h3>Type or select a movie from the dropdown</h3>
 ![Home page / search bar](https://github.com/mayurpaunikar7/Movie-Recommender-System/blob/main/Images/WhatsApp%20Image%202024-02-07%20at%204.35.59%20PM.jpeg)
 
-* <h3>Message distribution over time</h3>
+* <h3>Recommended Movies</h3>
 ![Home page / search bar](https://github.com/mayurpaunikar7/Movie-Recommender-System/blob/main/Images/WhatsApp%20Image%202024-02-07%20at%204.33.11%20PM.jpeg)
 
 ## Presentation 📊
